@@ -1,0 +1,49 @@
+body {
+}
+
+.crystalImage {
+  max-width: 150px;
+  width: 100%;
+  height: auto;
+  max-height: 200px;
+  margin: 15px;
+}
+h1 {
+  text-align: center;
+  font-family: "Courier";
+  font-size: 5vw;
+}
+
+h2 {
+  text-align: center;
+  font-family: "Courier";
+  font-size: 3.5vw;
+}
+
+h3 {
+  text-align: center;
+  font-family: "Courier";
+  font-size: 3vw;
+}
+
+div {
+  text-align: center;
+  font-family: "Courier";
+  font-size: 2vw;
+  vertical-align: bottom;
+  padding: 5px;
+  margin: 0 auto;
+}
+p {
+  
+  margin: 0 auto;
+}
+
+#instructions {
+  float: left;
+  font-family: "Courier";
+  font-size: 2.3vw;
+}
+#reset {
+  margin: 0 auto;
+}
